@@ -2,7 +2,6 @@
 <h1 align="center">👋🏽 Hi, I’m @MahsaAbar👩🏻‍💻</h1>
 <h3 align="center">With an insatiable curiosity and a flair for development, I'm immersing myself in the realm of computer science, adding JavaScript, HTML, CSS, and more to my repertoire. Join me as I merge the worlds of data and creativity, crafting a future where insights become the heartbeat of success. (by AI)"</h3>
 
---<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshn28&label=Profile%20views&color=0e75b6&style=flat" alt="joshn28" /> </p>
 
 - 📫 Reach me by **abarghouei.mahsa@gmail.com**
 
