@@ -1,7 +1,7 @@
 
 <h1 align="center">👋🏽 Hi, I’m @MahsaAbar👩🏻‍💻</h1>
 <h3 align="center">"With an insatiable curiosity and a flair for development, I'm immersing myself in the realm of computer science, adding JavaScript, HTML, CSS, and more to my repertoire. "</h3>
-<h5 align="center>(by CahtGPT)</h5>
+<h5 align="center">(by CahtGPT)</h5>
 
 
 - 📫 Reach me by **abarghouei.mahsa@gmail.com**
