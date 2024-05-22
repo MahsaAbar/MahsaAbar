@@ -4,7 +4,7 @@
 <!-- <h5 align="right">(by CahtGPT)</h5> -->
 
 
-- 📫 Reach me by **abarghouei.mahsa@gmail.com**
+- 📫 Reach me by **abar.marisaa@gmail.com**
 
 <h3 align="left">Keep in touch with me:</h3>
 <p align="left">
